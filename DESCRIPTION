@@ -4,8 +4,7 @@ Version: 0.0.0.9000
 Authors@R: 
     person("Linett", "Medina Calderon", , "dinosawrfish@gmail.com", role = c("aut", "cre"))
 Description: Learning guide from r-pkgs to recreate regexcite package.
-License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
-    license
+License: MIT + file LICENSE
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
 Config/roxygen2/version: 8.1.0
